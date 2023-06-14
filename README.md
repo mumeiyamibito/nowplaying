@@ -1,8 +1,8 @@
 # nowplaying.sh
 
 ## 概要
-現在再生中の音楽情報を表示およびクリップボードに送るスクリプト
-
+* Linux 環境で、現在再生中の音楽情報を表示およびクリップボードに送るスクリプト
+* vlc、mpv、RhythmBox、web browsers、cmus、mpd、spotify、Strawberryなどに対応。
 
 ## 使用方法
 ### ターミナルに表示
