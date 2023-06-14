@@ -37,5 +37,5 @@ Copyright (c) 2023 mumeiyamibito
 
 
 ## ChangeLog
-### Ver. 1.0 (42023/06/14)
+### Ver. 1.0 (2023/06/14)
 * リリースした。
